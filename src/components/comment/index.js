@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Container, Wrapper, Button, Input, InputSection, ButtonSection } from './styles';
 
 const Comment = ({ comment, setComment }) => {

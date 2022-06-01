@@ -20,7 +20,7 @@ import {
 } from './styles';
 import { FaRegHeart, FaHeart, FaRegCommentAlt, FaRegBookmark, FaBookmark } from 'react-icons/fa';
 import { FiSend, FiMoreHorizontal } from 'react-icons/fi';
-import { constants, specifications } from '../../utilities/specifications';
+import { constants } from '../../utilities/specifications';
 import Comment from '../comment';
 import Modal from '../modal';
 import { optionMap } from '../../utilities/report';
