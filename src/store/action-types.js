@@ -1,0 +1,8 @@
+export const SET_POSTS = 'SET_POSTS';
+export const POST_FAILURE = 'POST_FAILURE';
+
+export const REPORT_SUCCESSFUL = 'REPORT_SUCCESSFUL';
+export const REPORT_FAILURE = 'REPORT_FAILURE';
+
+export const SET_USERS = 'SET_USERS';
+export const USER_FAILURE = 'USER_FAILURE';
